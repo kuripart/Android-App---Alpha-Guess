@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlphaGuessv1.iml" filepath="$PROJECT_DIR$/AlphaGuessv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-App---Alpha-Guess.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-App---Alpha-Guess.iml" group="Android-App---Alpha-Guess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-App---Alpha-Guess-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-App---Alpha-Guess-app.iml" group="Android-App---Alpha-Guess/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
